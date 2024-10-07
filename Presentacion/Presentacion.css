@@ -1,7 +1,7 @@
 .header{
     background-color: rgb(30, 30, 160);
     text-align: center;
-
+    margin: 50px;
 }
 .pad1{
     padding: 100px 50px 100px 50px;
