@@ -10,6 +10,10 @@
     font-weight: bold;
 }
 .GenInfo{
-    background-color: rgb(50, 50, 199, 0.4);
+    background-color: rgba(28, 28, 255, 0.762);
     text-align: center;
+}
+.textAlign{
+    padding-left: 50px;
+    padding-right: 50px;
 }
